@@ -1,4 +1,4 @@
-## EC2 MySQL installation
+## MySQL installations
 
 ### 1. Install
   1. MySQL must be installed from the community repository.
