@@ -1,4 +1,4 @@
-## EC2 installation
+## EC2 MySQL installation
 
 ### 1. Install
   1. MySQL must be installed from the community repository.
@@ -230,5 +230,4 @@ http://ec2-52-9-147-155.us-west-1.compute.amazonaws.com
         ```
         Please remember: if you want to reinstall the PMM server, first stop the PMM client services and remove in order to prevent them         to become orphaned services.
         For any additional maintenance check the documentation page: https://www.percona.com/doc/percona-monitoring-and-management/pmm-admin.html.
-
 
